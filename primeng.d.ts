@@ -19,6 +19,7 @@ export * from './components/contextmenu/contextmenu';
 export * from './components/datagrid/datagrid';
 export * from './components/datalist/datalist';
 export * from './components/datascroller/datascroller';
+export * from './components/datatable/datatable';
 export * from './components/defer/defer';
 export * from './components/dialog/dialog';
 export * from './components/dragdrop/dragdrop';
